@@ -10,7 +10,7 @@ export default function Index() {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
-            <h1>Menu 2</h1>
+            <h1>Menu 2 - updated</h1>
         </div>
     )
 }
